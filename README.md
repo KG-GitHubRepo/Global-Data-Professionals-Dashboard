@@ -9,7 +9,7 @@ The project seeks to address the evolving landscape of career transitions within
 #### Insights:
 
 1. Average Salary for Female ($55K) is higher than Male ($53K).
-2. ﻿Across all 7 Job Titles, Average Salary ranged from $26K to $88K.
+2. ﻿The average age of 30 suggests that the surveyed population consists of a relatively youthful workforce. This demographic profile may indicate a prevalence of early to mid-career professionals within the data profession.
 3. ﻿At $88K, Data Scientist had the highest Average Salary and was 233.02% higher than Student/Looking/None, which had the lowest Average Salary at $26K.
 4. Python is the most widely accepted programming language across all roles, with significantly higher usage compared to other languages. It is particularly dominant among Data Analysts, Data Engineers, Data Scientists, and Database Developers.
 5. C/C++ and Java are less commonly used among data professionals, with minimal adoption across the roles surveyed.
